@@ -2,7 +2,7 @@
 
 A Rust-native Bedrock-to-Java bridge targeting **Horizon Server** (Minecraft Java Edition 26.3).
 
-> Status: early design / implementation not started. This project is not yet compatible with GeyserMC or Floodgate.
+> Status: design stage. Bedrock transport, RakNet and packet translation are not implemented yet. The first integration target is Horizon **Open to LAN** (integrated server), not a separate dedicated server.
 
 ## Goal
 
